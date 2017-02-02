@@ -7,5 +7,3 @@
 [02 永澄老师检视阅读课件](http://mubu.io/doc/9qcZmAv9B)
 
 [03 精通的四个层次——道术器用模型](http://blog.hiddenwangcc.com/archives/2615)
-
-![优秀作业展示（by 光墓）](http://i.imgur.com/jtOybrK.jpg)
