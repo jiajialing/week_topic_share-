@@ -11,6 +11,6 @@
  
  - 总结区（根据老听课分享，最好可以联系起自己的先验知识来，并且进行整理，最终成为自己生活，工作践行的方法论。）
  
-[01 视频教程](https://h5.qzone.qq.com/ugc/share/A266EACE71A1BA9FA24BEB1B61559296?uw=1058511509&subtype=0&sid=&from=groupmessage&blog_photo=0&appid=311&ciphertext=A266EACE71A1BA9FA24BEB1B61559296&_wv=1)
+[01 视频教程](http://www.365yg.com/i6384031767682089474/?tt_from=android_share&utm_campaign=client_share&app=news_article&iid=7576060466&utm_medium=toutiao_android&winzoom=1)
 
 [02 听课word模板](http://pan.baidu.com/s/1i46Ndyt)
