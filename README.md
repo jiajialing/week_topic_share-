@@ -17,3 +17,5 @@
 [04 word信息处理和听课笔记](teach4.md)
 
 [05 网站搭建教程](teach5.md)
+
+[06 构建秒杀一切的学习方法之心理表征](xinlibiaozhen.md)
