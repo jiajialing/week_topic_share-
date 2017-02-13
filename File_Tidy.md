@@ -54,6 +54,11 @@
   ⑵、文件夹下面的文档命名请参照第一点（示例如下）。
   ![](http://i.imgur.com/zZK8FRj.png)  
   ⑶、未完成和已完成的存档示例
-  ![](http://i.imgur.com/Dnn1QCI.png)  
+  ![](http://i.imgur.com/Dnn1QCI.png)    
+  - 3、搜索文件   
+  ⑴、自己在头脑中清晰的结构进行搜索。  
+  ⑵、[本地搜索神器-Everything](http://www.voidtools.com/)
+
+
   
   
