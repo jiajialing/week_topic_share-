@@ -21,3 +21,5 @@
 [06 构建秒杀一切的学习方法之心理表征](xinlibiaozhen.md)
 
 [07 文件整理小系统](File_Tidy.md)
+
+[08 一张图实现个人崛起](2-xuyan.md.md)
