@@ -22,4 +22,6 @@
 
 [07 文件整理小系统](File_Tidy.md)
 
-[08 一张图实现个人崛起](2-xuyan.md.md)
+[08 一张图实现个人崛起](2-xuyan.md.md)  
+
+[09 新认知模式入门编程](xin-zhi-bian-cheng.md)
